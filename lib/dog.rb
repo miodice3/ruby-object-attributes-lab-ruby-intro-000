@@ -1,5 +1,8 @@
 class Dog 
-  def name=(name)
-    @this
+  def name
+    @name = name
+  end
+  
+  def name= 
   
 end
